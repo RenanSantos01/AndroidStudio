@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007612563629",
+    "project_id": "appjavax-50e87",
+    "storage_bucket": "appjavax-50e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007612563629:android:cce19e5923e1a19bb07624",
+        "android_client_info": {
+          "package_name": "com.example.appjavax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWbC3C8EnMKt9AeKHV6FCO2iZ8QXiDf4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
