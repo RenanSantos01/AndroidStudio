@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="colorPrimary">@color/blue_1</color>
+    <color name="colorPrimaryDark">@color/blue_1</color>
     <color name="ciano">#00BCD4</color>
     <color name="azul">#0000FF</color>
+
+    <color name="blue_1">#00101f</color>
 </resources>
 
 
